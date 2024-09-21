@@ -1,0 +1,4 @@
+repository "Virtual Supermarket Test LTS 2022@avivbe95@cloud"
+  path "/"
+    br "/main"
+    co "/main"
